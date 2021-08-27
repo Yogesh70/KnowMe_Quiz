@@ -40,6 +40,9 @@ let questionsBank = [
   }, {
     question: `Choose one: chocolate/icecream? `,
     answer: 'icecream'
+  }, {
+    question: 'Choose one: Goa/Andaman? ',
+    answer: 'Andaman'
   }
 ]
 
